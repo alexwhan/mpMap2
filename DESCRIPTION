@@ -14,6 +14,7 @@ LazyLoad: yes
 Suggests:
     testthat,
     mpMapInteractive2
+biocViews: Heatplus
 Imports:
     ggplot2,
     Matrix,
@@ -23,7 +24,6 @@ Imports:
     fastcluster,
     pryr,
     nnls,
-    Heatplus,
     RColorBrewer,
     jsonlite
 LinkingTo: Rcpp
